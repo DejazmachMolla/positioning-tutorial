@@ -1,0 +1,17 @@
+{
+  "name": "html-forms",
+  "version": "2.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dejazmach G. Molla",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

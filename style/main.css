@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  height: 300vh;
+}
+.block {
+  height: 200px;
+}
+.small-block {
+  width: 100px;
+  height: 100px;
+}
+.green {
+  background-color: green;
+  width: 230px;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 210px;
+}
+
+.red {
+  background-color: red;
+  width: 220px;
+}
+
+.indigo {
+  background-color: indigo;
+}
